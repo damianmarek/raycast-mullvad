@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "mullvad",
+  "name": "mullvad-vpn",
   "title": "Mullvad",
   "description": "Control Mullvad VPN",
   "icon": "mullvad-logo.png",
